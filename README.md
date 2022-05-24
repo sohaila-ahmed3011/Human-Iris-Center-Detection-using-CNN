@@ -5,5 +5,5 @@ This is an implementation to the CNN model architecture in the paper *Accurate E
 - Multiple preprocessing stages were executed on the dataset to reach the required format of predictors and labels for the CNN model
 - Finally, the CNN model was trained and tested on ten different images
 
-Reference paper link: https://ieeexplore.ieee.org/abstract/document/8803121 
+Reference paper link: https://ieeexplore.ieee.org/abstract/document/8803121 \\
 Dataset link: https://www.unavarra.es/gi4e/databases/gi4e/
